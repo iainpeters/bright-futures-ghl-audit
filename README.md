@@ -1,2 +1,5 @@
-# bright-futures-ghl-audit
-Client-facing Bright Futures Chiropractic GHL automation audit microsite
+# Bright Futures GHL Audit
+
+Static client-facing read-only GoHighLevel automation audit microsite.
+
+Published with GitHub Pages from `index.html`.
